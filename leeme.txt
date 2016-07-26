@@ -1,0 +1,14 @@
+Esto es un ejemplo de como generar PDFs desde ASP clásico.
+Necesitaras crear una las carpetas darlas permisos, sobre todo a la PDFs de lectura, escritura y ejecución.
+Para efectuar la llamada, es necesario ejecutar mediante URL las paginas de la carpeta pdfs.
+
+La única pagina que existe es generar_pdf.asp dentro de pdfs, recuerda no funcionara porque falta la base y solo es un ejemplo de como atacar a una base de datos 
+mediante DSN, pero os puede servir para realizar vuestras propias paginas y usar las funciones de la libreria en ASP
+para generar PDFs. Adjunto documento PDF de ayuda.
+
+La carpeta includes agrega un par de ficheros uno de ellos para vuestras funciones, y el otro para las constantes.
+
+Requiere esa estructura de carpetas.
+Existen un par de funciones mas de cosecha propia.
+
+Saludos.
